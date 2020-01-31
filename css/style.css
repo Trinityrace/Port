@@ -13,8 +13,13 @@ nav{
   background: #0082e6;
   height: 80px;
   width: 100%;
-
 }
+section{
+  background: url(../image/d.gif)no-repeat;
+  background-size: cover ;
+  height: calc(100vh - 80px);
+}
+
 label.logo{
   color: wheat;
   font-size: 35px;
